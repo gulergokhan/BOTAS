@@ -1,4 +1,4 @@
 # BOTAŞ INTERNSHIP LEARNINGS & EXPERIENCES
 _____________________________________________________________________________________________________________
-Day 1 |  analyzed their own SQL systems and user allocations and developed a mini-registration system in C++.
+Day 1 |  analyzed their own SQL systems and user allocations and developed a mini-registration system in C++.(25.08.2025)
 _____________________________________________________________________________________________________________
